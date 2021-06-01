@@ -308,7 +308,7 @@ packages:
     description:
       path: "."
       ref: main
-      resolved-ref: "2f6fd60fa44cd93facd9a691c568c33c4923ef4d"
+      resolved-ref: "2ebbd17e7fd310df60bc523fe14d2f1937e4e8c7"
       url: "git@github.com:ZupIT/iupp-checkout.git"
     source: git
     version: "1.0.0+1"
@@ -317,7 +317,7 @@ packages:
     description:
       path: "."
       ref: main
-      resolved-ref: ab5c302e17b581f3dc8bb6c4243012475d5a28ce
+      resolved-ref: "19d75f2b3b230fddda4de2b93145b52e770fe6ff"
       url: "git@github.com:ZupIT/iupp-components.git"
     source: git
     version: "0.0.1"
@@ -326,7 +326,7 @@ packages:
     description:
       path: "."
       ref: main
-      resolved-ref: "189ac00e8b9597aa7e7c2ccbf43ec1d4b479bd25"
+      resolved-ref: "75672c0300a580f9a3fca19124c12197f7c44965"
       url: "git@github.com:ZupIT/iupp-core.git"
     source: git
     version: "0.0.1"
@@ -335,7 +335,7 @@ packages:
     description:
       path: "."
       ref: main
-      resolved-ref: cb7e35ce8bcddd637f3c1cb6929a80718eb949c4
+      resolved-ref: d21f888b92a03a1b2e8d88cd6240f7dd9a253d40
       url: "git@github.com:ZupIT/iupp-marketplace-buyer.git"
     source: git
     version: "1.0.0+1"
