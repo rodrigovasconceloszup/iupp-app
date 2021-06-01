@@ -12,31 +12,42 @@ dependencies:
   flutter:
     sdk: flutter
 
+  #iupp_core:
+  #  git:
+  #    url: git@github.com:ZupIT/iupp-core.git
+  #    ref: main
+  #    tag: v1.0.0
+  #
+  #iupp_components:
+  #  git:
+  #    url: git@github.com:ZupIT/iupp-components.git
+  #    ref: main
+  #    tag: v1.0.0
+  #
+  #iupp_checkout:
+  #  git:
+  #    url: git@github.com:ZupIT/iupp-checkout.git
+  #    ref: main
+  #    tag: v1.0.0
+  #
+  #iupp_marketplace_buyer:
+  #  git:
+  #    url: git@github.com:ZupIT/iupp-marketplace-buyer.git
+  #    ref: main
+  #    tag: v1.0.0
+
   iupp_core:
-    git:
-      url: git@github.com:ZupIT/iupp-core.git
-      ref: main
-      tag: v1.0.0
+    path: ../iupp-core
 
   iupp_components:
-    git:
-      url: git@github.com:ZupIT/iupp-components.git
-      ref: main
-      tag: v1.0.0
+    path: ../iupp-components
 
   iupp_checkout:
-    git:
-      url: git@github.com:ZupIT/iupp-checkout.git
-      ref: main
-      tag: v1.0.0
+    path: ../iupp-checkout
 
   iupp_marketplace_buyer:
-    git:
-      url: git@github.com:ZupIT/iupp-marketplace-buyer.git
-      ref: main
-      tag: v1.0.0
+    path: ../iupp-marketplace-buyer
 
-  cupertino_icons: ^1.0.2
   url_strategy: ^0.2.0
 
 dev_dependencies:

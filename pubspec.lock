@@ -28,7 +28,7 @@ packages:
       name: args
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "2.1.0"
+    version: "2.1.1"
   async:
     dependency: transitive
     description:
@@ -148,13 +148,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "3.0.1"
-  cupertino_icons:
-    dependency: "direct main"
-    description:
-      name: cupertino_icons
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "1.0.3"
   data_connection_checker_tv:
     dependency: transitive
     description:
@@ -306,38 +299,30 @@ packages:
   iupp_checkout:
     dependency: "direct main"
     description:
-      path: "."
-      ref: main
-      resolved-ref: "2ebbd17e7fd310df60bc523fe14d2f1937e4e8c7"
-      url: "git@github.com:ZupIT/iupp-checkout.git"
-    source: git
+      path: "../iupp-checkout"
+      relative: true
+    source: path
     version: "1.0.0+1"
   iupp_components:
     dependency: "direct main"
     description:
-      path: "."
-      ref: main
-      resolved-ref: "19d75f2b3b230fddda4de2b93145b52e770fe6ff"
-      url: "git@github.com:ZupIT/iupp-components.git"
-    source: git
+      path: "../iupp-components"
+      relative: true
+    source: path
     version: "0.0.1"
   iupp_core:
     dependency: "direct main"
     description:
-      path: "."
-      ref: main
-      resolved-ref: "75672c0300a580f9a3fca19124c12197f7c44965"
-      url: "git@github.com:ZupIT/iupp-core.git"
-    source: git
+      path: "../iupp-core"
+      relative: true
+    source: path
     version: "0.0.1"
   iupp_marketplace_buyer:
     dependency: "direct main"
     description:
-      path: "."
-      ref: main
-      resolved-ref: d21f888b92a03a1b2e8d88cd6240f7dd9a253d40
-      url: "git@github.com:ZupIT/iupp-marketplace-buyer.git"
-    source: git
+      path: "../iupp-marketplace-buyer"
+      relative: true
+    source: path
     version: "1.0.0+1"
   js:
     dependency: transitive
