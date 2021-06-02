@@ -33,3 +33,4 @@ coverage/
 
 # Android related
 **/android
+ios/Flutter/Debug.xcconfig
